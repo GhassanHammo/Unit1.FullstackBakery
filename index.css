@@ -1,0 +1,89 @@
+body {
+  background-color: antiquewhite;
+}
+
+header {
+  color: red;
+  font-size: 50px;
+  margin: 0px;
+  font-family: cursive;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  text-align: right;
+  text-align: right;
+}
+
+a {
+  color: brown;
+  font-size:small;
+}
+
+ul {
+    margin-bottom: 0px;
+    list-style-type: square;
+    height: 0px;
+}
+
+li {
+  background-color: red;
+  text-align: center;
+  
+  font-size: xx-large;
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray
+  
+  
+}
+
+h2 {
+  font-size: x-large;
+  margin-left: 400px;
+  margin-top: 1px;
+}
+
+.testimonial {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: baseline;
+  height: 80px;
+  font-size: large;
+  margin: 35px;
+  background-color: azure;
+  margin-left: 400px;
+}
+
+p2 {
+  margin-left: 400px;
+  display: flex;
+  font-size: x-large;
+}
+
+p3 {
+  margin-left: 400px;
+  display: flex;
+  font-size: x-large;
+}
+
+p4 {
+  margin-left: 400px;
+  display: flex;
+  font-size: x-large;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: wheat;
+  height: 50px;
+  align-content: space-around;
+  margin-top: 200px;
+}
